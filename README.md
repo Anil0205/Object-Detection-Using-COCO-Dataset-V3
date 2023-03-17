@@ -3,10 +3,6 @@
 # YOLO V3
 
 
-
-# YOLO V3
-
-
 YOLO (You Only Look Once) is a popular real-time object detection system that uses deep learning techniques to detect objects in images and videos. YOLO V3 is the third iteration of the YOLO series and was released in 2018.
 
 YOLO V3 uses a feature extractor based on a deep neural network architecture called Darknet-53, which has 53 convolutional layers. This architecture helps to capture rich features of an image, allowing YOLO V3 to detect objects with high accuracy.
@@ -29,7 +25,7 @@ To use YOLO V3 for object detection, you need to first train the system on a dat
 ![App Screenshot](https://viso.ai/wp-content/uploads/2021/02/YOLOv3-how-it-works.jpg)
 
 
-
+![App Screenshot]()
 
 
 

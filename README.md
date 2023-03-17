@@ -25,7 +25,7 @@ To use YOLO V3 for object detection, you need to first train the system on a dat
 ![App Screenshot](https://viso.ai/wp-content/uploads/2021/02/YOLOv3-how-it-works.jpg)
 
 
-![App Screenshot]()
+
 
 
 
